@@ -9,9 +9,7 @@ const useStore = create(
         account: [],
         balance: 0,
         incomeBalance: 0,
-        incomePercentage: 0,
         outputBalance: 0,
-        outputPercentage: 0,
         checkBalance: () => {
           let currentBalance = 0;
           set(
