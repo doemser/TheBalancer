@@ -1,5 +1,5 @@
 # TheBalancer
-What shall I say? Track your in- and outcomes. Oh.. and I love zustand.js & immer.js!
+What shall I say? Track your in- and outcomes.
 
 https://the-balancer.vercel.app/
 
